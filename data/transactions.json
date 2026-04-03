@@ -10,7 +10,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 42.60000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -23,7 +24,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -36,7 +38,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 35.64,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -49,7 +52,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 41.58,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -62,7 +66,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -75,7 +80,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 11.34,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -88,7 +94,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -101,7 +108,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -114,7 +122,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -127,7 +136,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -140,7 +150,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 11.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -153,7 +164,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -166,7 +178,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -179,7 +192,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -192,7 +206,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 20.79,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -205,7 +220,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -218,7 +234,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -231,7 +248,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 147.00000000000006,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -244,7 +262,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 125.99999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -257,7 +276,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 125.99999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -270,7 +290,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 125.99999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -283,7 +304,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 125.99999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -296,7 +318,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 1.674,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -309,7 +332,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -322,7 +346,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -335,7 +360,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -348,7 +374,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -361,7 +388,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -374,7 +402,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -387,7 +416,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -400,7 +430,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -413,7 +444,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -426,7 +458,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -439,7 +472,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -452,7 +486,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -465,7 +500,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 25.2,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -478,7 +514,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -491,7 +528,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 35.64,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -504,7 +542,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -517,7 +556,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -530,7 +570,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -543,7 +584,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -556,7 +598,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -569,7 +612,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 14.85,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -582,7 +626,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 111.00000000000004,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -595,7 +640,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -608,7 +654,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -621,7 +668,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -634,7 +682,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -647,7 +696,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -660,7 +710,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -673,7 +724,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -686,7 +738,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -699,7 +752,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -712,7 +766,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -725,7 +780,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -738,7 +794,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 118.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -751,7 +808,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -764,7 +822,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -777,7 +836,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -790,7 +850,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -803,7 +864,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -816,7 +878,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -829,7 +892,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -842,7 +906,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -855,7 +920,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -868,7 +934,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -881,7 +948,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -894,7 +962,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -907,7 +976,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -920,7 +990,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 56.42999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -933,7 +1004,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -946,7 +1018,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 28.799999999999997,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -959,7 +1032,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 42.60000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -972,7 +1046,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -985,7 +1060,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -998,7 +1074,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1011,7 +1088,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1024,7 +1102,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1037,7 +1116,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1050,7 +1130,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1063,7 +1144,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1076,7 +1158,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1089,7 +1172,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 37.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1102,7 +1186,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 71.28,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1115,7 +1200,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 24.84,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1128,7 +1214,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1141,7 +1228,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1154,7 +1242,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 120.00000000000004,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1167,7 +1256,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 37.8,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1180,7 +1270,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1193,7 +1284,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1206,7 +1298,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1219,7 +1312,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 143.32800000000003,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1232,7 +1326,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1245,7 +1340,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1258,7 +1354,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1271,7 +1368,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1284,7 +1382,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 37.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1297,7 +1396,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 13.499999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1310,7 +1410,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 66.6,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1323,7 +1424,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -1336,7 +1438,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -1349,7 +1452,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1362,7 +1466,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -1375,7 +1480,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1388,7 +1494,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1401,7 +1508,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 20.79,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1414,7 +1522,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1427,7 +1536,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1440,7 +1550,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1453,7 +1564,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -1466,7 +1578,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1479,7 +1592,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1492,7 +1606,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 14.85,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1505,7 +1620,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -1518,7 +1634,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 11.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1531,7 +1648,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 6.3,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -1544,7 +1662,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -1557,7 +1676,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1570,7 +1690,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1583,7 +1704,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1596,7 +1718,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1609,7 +1732,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1622,7 +1746,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1635,7 +1760,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -1648,7 +1774,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1661,7 +1788,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 26.729999999999997,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1674,7 +1802,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1687,7 +1816,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1700,7 +1830,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1713,7 +1844,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1726,7 +1858,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1739,7 +1872,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1752,7 +1886,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1765,7 +1900,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1778,7 +1914,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1791,7 +1928,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1804,7 +1942,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 35.64,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1817,7 +1956,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1830,7 +1970,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1843,7 +1984,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 118.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1856,7 +1998,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 118.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1869,7 +2012,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1882,7 +2026,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1895,7 +2040,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -1908,7 +2054,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -1921,7 +2068,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -1934,7 +2082,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1947,7 +2096,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 62.99999999999999,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1960,7 +2110,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1973,7 +2124,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -1986,7 +2138,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -1999,7 +2152,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2012,7 +2166,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2025,7 +2180,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 37.62,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2038,7 +2194,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2051,7 +2208,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2064,7 +2222,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2077,7 +2236,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2090,7 +2250,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2103,7 +2264,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 20.79,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2116,7 +2278,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2129,7 +2292,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2142,7 +2306,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2155,7 +2320,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2168,7 +2334,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2181,7 +2348,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2194,7 +2362,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2207,7 +2376,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2220,7 +2390,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2233,7 +2404,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2246,7 +2418,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -2259,7 +2432,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2272,7 +2446,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2285,7 +2460,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2298,7 +2474,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2311,7 +2488,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2324,7 +2502,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2337,7 +2516,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2350,7 +2530,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2363,7 +2544,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2376,7 +2558,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2389,7 +2572,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2402,7 +2586,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 71.28,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2415,7 +2600,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2428,7 +2614,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2441,7 +2628,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 56.42999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2454,7 +2642,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2467,7 +2656,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2480,7 +2670,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2493,7 +2684,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2506,7 +2698,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2519,7 +2712,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2532,7 +2726,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2545,7 +2740,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2558,7 +2754,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2571,7 +2768,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2584,7 +2782,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2597,7 +2796,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2610,7 +2810,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 223.59999999999994,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2623,7 +2824,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 223.59999999999994,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2636,7 +2838,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2649,7 +2852,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2662,7 +2866,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 118.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2675,7 +2880,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 92.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2688,7 +2894,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2701,7 +2908,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2714,7 +2922,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -2727,7 +2936,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 120.00000000000004,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2740,7 +2950,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2753,7 +2964,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 147.00000000000006,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -2766,7 +2978,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -2779,7 +2992,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 11.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2792,7 +3006,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2805,7 +3020,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -2818,7 +3034,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.24999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2831,7 +3048,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 14.399999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2844,7 +3062,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 142.53600000000003,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2857,7 +3076,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2870,7 +3090,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2883,7 +3104,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.40000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2896,7 +3118,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 47.519999999999996,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2909,7 +3132,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -2922,7 +3146,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 118.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2935,7 +3160,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 103.94999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -2948,7 +3174,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 14.85,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -2961,7 +3188,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -2974,7 +3202,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -2987,7 +3216,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -3000,7 +3230,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 111.00000000000004,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3013,7 +3244,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3026,7 +3258,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3039,7 +3272,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3052,7 +3286,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3065,7 +3300,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3078,7 +3314,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 66.6,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3091,7 +3328,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 42.60000000000005,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3104,7 +3342,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3117,7 +3356,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -3130,7 +3370,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 37.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3143,7 +3384,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -3156,7 +3398,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3169,7 +3412,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3182,7 +3426,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -3195,7 +3440,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3208,7 +3454,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3221,7 +3468,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 53.99999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3234,7 +3482,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 14.85,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3247,7 +3496,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3260,7 +3510,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3273,7 +3524,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3286,7 +3538,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 26.729999999999997,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3299,7 +3552,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3312,7 +3566,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -3325,7 +3580,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -3338,7 +3594,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3351,7 +3608,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3364,7 +3622,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3377,7 +3636,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3390,7 +3650,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3403,7 +3664,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3416,7 +3678,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3429,7 +3692,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3442,7 +3706,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3455,7 +3720,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3468,7 +3734,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3481,7 +3748,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3494,7 +3762,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3507,7 +3776,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3520,7 +3790,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3533,7 +3804,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 20.79,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3546,7 +3818,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3559,7 +3832,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3572,7 +3846,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3585,7 +3860,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3598,7 +3874,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3611,7 +3888,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3624,7 +3902,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3637,7 +3916,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 35.64,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3650,7 +3930,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 20.79,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3663,7 +3944,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 118.8,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -3676,7 +3958,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3689,7 +3972,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3702,7 +3986,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3715,7 +4000,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -3728,7 +4014,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -3741,7 +4028,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3754,7 +4042,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3767,7 +4056,8 @@
     "comision_prestamo": 200,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -3780,7 +4070,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 7.02,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "YAHEL",
@@ -3793,7 +4084,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3806,7 +4098,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Depósito"
+    "medio_pago": "Depósito",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -3819,7 +4112,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 62.99999999999999,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3832,7 +4126,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 50.489999999999995,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3845,7 +4140,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3858,7 +4154,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 74.25,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3871,7 +4168,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3884,7 +4182,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3897,7 +4196,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOSC",
@@ -3910,7 +4210,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.7,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "NADIA",
@@ -3923,7 +4224,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 89.1,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -3936,7 +4238,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 38.61,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3949,7 +4252,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 14.85,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "MARCOS",
@@ -3962,7 +4266,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3975,7 +4280,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 29.249999999999996,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "JAIME",
@@ -3988,7 +4294,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 59.4,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "AARON",
@@ -4001,7 +4308,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 23.759999999999998,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -4014,7 +4322,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "ALMA",
@@ -4027,7 +4336,8 @@
     "comision_prestamo": 0,
     "comision_cobro": 0.018,
     "total_cc": 44.55,
-    "medio_pago": "Efectivo"
+    "medio_pago": "Efectivo",
+    "mora": "No"
   },
   {
     "asesor": "",
@@ -4040,6 +4350,91 @@
     "comision_prestamo": 0,
     "comision_cobro": 0,
     "total_cc": 0,
-    "medio_pago": ""
+    "medio_pago": "",
+    "mora": "No"
+  },
+  {
+    "asesor": "ALMA",
+    "fecha": "2026-01-02",
+    "concepto": "Mora DOMINGUEZ MENDEZ JUDITH",
+    "tipo_concepto": "Mora",
+    "cliente": "DOMINGUEZ MENDEZ JUDITH",
+    "valor": 2100,
+    "utilidad": 1500,
+    "comision_prestamo": 0,
+    "comision_cobro": 0,
+    "total_cc": 0,
+    "medio_pago": "",
+    "mora": "Sí"
+  },
+  {
+    "asesor": "ALMA",
+    "fecha": "2026-01-03",
+    "concepto": "Mora HERNANDEZ DOMINGUEZ LIMBERTH JARED",
+    "tipo_concepto": "Mora",
+    "cliente": "HERNANDEZ DOMINGUEZ LIMBERTH JARED",
+    "valor": 2100,
+    "utilidad": 1500,
+    "comision_prestamo": 0,
+    "comision_cobro": 0,
+    "total_cc": 0,
+    "medio_pago": "",
+    "mora": "Sí"
+  },
+  {
+    "asesor": "ALMA",
+    "fecha": "2026-01-16",
+    "concepto": "Mora GARCIA CAMAL YURIDIA",
+    "tipo_concepto": "Mora",
+    "cliente": "GARCIA CAMAL YURIDIA",
+    "valor": 1750,
+    "utilidad": 1250,
+    "comision_prestamo": 0,
+    "comision_cobro": 0,
+    "total_cc": 0,
+    "medio_pago": "",
+    "mora": "Sí"
+  },
+  {
+    "asesor": "JAIME",
+    "fecha": "2026-01-17",
+    "concepto": "Mora TOLEDANO RAMOS BRENDA YANELY",
+    "tipo_concepto": "Mora",
+    "cliente": "TOLEDANO RAMOS BRENDA YANELY",
+    "valor": 3300,
+    "utilidad": 2500,
+    "comision_prestamo": 1150,
+    "comision_cobro": 0,
+    "total_cc": 0,
+    "medio_pago": "",
+    "mora": "Sí"
+  },
+  {
+    "asesor": "ALMA",
+    "fecha": "2026-01-17",
+    "concepto": "Mora DOMINGUEZ MENDEZ JUDITH",
+    "tipo_concepto": "Mora",
+    "cliente": "DOMINGUEZ MENDEZ JUDITH",
+    "valor": 2100,
+    "utilidad": 1500,
+    "comision_prestamo": 0,
+    "comision_cobro": 0,
+    "total_cc": 0,
+    "medio_pago": "",
+    "mora": "Sí"
+  },
+  {
+    "asesor": "ALMA",
+    "fecha": "2026-01-18",
+    "concepto": "Mora HERNANDEZ DOMINGUEZ LIMBERTH JARED",
+    "tipo_concepto": "Mora",
+    "cliente": "HERNANDEZ DOMINGUEZ LIMBERTH JARED",
+    "valor": 2100,
+    "utilidad": 1500,
+    "comision_prestamo": 0,
+    "comision_cobro": 0,
+    "total_cc": 0,
+    "medio_pago": "",
+    "mora": "Sí"
   }
 ]

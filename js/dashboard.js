@@ -73,6 +73,8 @@
     if (tipos.length) params.tipo = tipos.join(",");
     var medios = getActiveChips("filterMedio");
     if (medios.length) params.medio = medios.join(",");
+    var moras = getActiveChips("filterMora");
+    if (moras.length) params.mora = moras.join(",");
     return params;
   }
 
@@ -105,6 +107,7 @@
     createChips("filterAsesor", data.asesores || []);
     createChips("filterTipo", data.tipos || []);
     createChips("filterMedio", data.medios || []);
+    createChips("filterMora", data.moras || []);
     if (data.fecha_min) {
       document.getElementById("filterFechaInicio").value = data.fecha_min;
       document.getElementById("filterFechaFin").value = data.fecha_max;
@@ -978,6 +981,8 @@
           fmt(row.total_cc) +
           "</td><td>" +
           escapeHtml(row.medio_pago || "-") +
+          "</td><td>" +
+          escapeHtml(row.mora || "No") +
           "</td>";
         tbody.appendChild(tr);
       });
@@ -1054,8 +1059,17 @@
           var ws = wb.Sheets[wb.SheetNames[0]];
           var jsonRows = XLSX.utils.sheet_to_json(ws, { defval: null });
 
+          // Find where MORA section starts
+          var moraStart = jsonRows.length;
+          for (var mi = 0; mi < jsonRows.length; mi++) {
+            if ((jsonRows[mi].Asesor || "").toString().trim() === "MORA") {
+              moraStart = mi;
+              break;
+            }
+          }
+
           var transactions = [];
-          for (var i = 0; i < jsonRows.length; i++) {
+          for (var i = 0; i < moraStart; i++) {
             var row = jsonRows[i];
             if (typeof row.Valor === "string" || (!row.Concepto && !row.Asesor))
               continue;
@@ -1083,7 +1097,39 @@
               total_cc:
                 typeof row["Total CC"] === "number" ? row["Total CC"] : 0,
               medio_pago: (row["Medio pago"] || "").trim(),
+              mora: "No",
             });
+          }
+
+          // Parse MORA section
+          if (moraStart < jsonRows.length) {
+            for (var m = moraStart + 2; m < jsonRows.length; m++) {
+              var mRow = jsonRows[m];
+              if (!mRow.Asesor && !mRow.Concepto) continue;
+              if (typeof mRow.Fecha === "string") continue;
+              var mFecha = excelToDate(mRow.Fecha);
+              if (!mFecha) continue;
+              var mCliente = (mRow.Concepto || "").toString().trim();
+              if (!mCliente) continue;
+              var mAsesor = (mRow.Asesor || "").trim();
+              transactions.push({
+                asesor: mAsesor,
+                fecha: mFecha,
+                concepto: "Mora " + mCliente,
+                tipo_concepto: "Mora",
+                cliente: mCliente,
+                valor: typeof mRow.Valor === "number" ? mRow.Valor : 0,
+                utilidad: typeof mRow.Utilidad === "number" ? mRow.Utilidad : 0,
+                comision_prestamo:
+                  typeof mRow["Comision prestamo"] === "number"
+                    ? mRow["Comision prestamo"]
+                    : 0,
+                comision_cobro: 0,
+                total_cc: 0,
+                medio_pago: "",
+                mora: "S\u00ed",
+              });
+            }
           }
           resolve(transactions);
         } catch (err) {

@@ -1,3 +1,4 @@
+<?php require_once __DIR__ . '/auth.php'; ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -24,6 +25,9 @@
                     <span class="material-icons-round">upload_file</span>
                     Subir Reporte
                 </button>
+                <a href="auth.php?action=logout" class="btn btn-secondary btn-logout">
+                    <span class="material-icons-round">logout</span>
+                </a>
             </div>
         </header>
 
@@ -66,6 +70,10 @@
             <div class="filter-group">
                 <label>Medio de Pago</label>
                 <div class="multi-select" id="filterMedio"></div>
+            </div>
+            <div class="filter-group">
+                <label>Mora</label>
+                <div class="multi-select" id="filterMora"></div>
             </div>
             <div class="filter-actions">
                 <button class="btn btn-primary" id="btnApply">
@@ -229,7 +237,7 @@
             <div class="table-header"><h3><span class="material-icons-round">list_alt</span> Todas las Transacciones</h3></div>
             <div class="table-wrap">
                 <table id="tableTransactions">
-                    <thead><tr><th>Fecha</th><th>Asesor</th><th>Tipo</th><th>Cliente</th><th>Valor</th><th>Utilidad</th><th>Com. Préstamo</th><th>Com. Cobro</th><th>Medio Pago</th></tr></thead>
+                    <thead><tr><th>Fecha</th><th>Asesor</th><th>Tipo</th><th>Cliente</th><th>Valor</th><th>Utilidad</th><th>Com. Préstamo</th><th>Com. Cobro</th><th>Medio Pago</th><th>Mora</th></tr></thead>
                     <tbody></tbody>
                 </table>
             </div>

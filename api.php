@@ -1,4 +1,10 @@
 <?php
+session_start();
+if (empty($_SESSION['logged_in'])) {
+    http_response_code(401);
+    echo json_encode(['error' => 'Unauthorized']);
+    exit;
+}
 header('Content-Type: application/json; charset=utf-8');
 
 $dbPath = __DIR__ . '/db/dashboard.db';
@@ -25,19 +31,21 @@ function ensureSchema($db) {
         comision_cobro REAL NOT NULL DEFAULT 0,
         total_cc REAL NOT NULL DEFAULT 0,
         medio_pago TEXT NOT NULL DEFAULT "",
-        reporte TEXT NOT NULL DEFAULT ""
+        reporte TEXT NOT NULL DEFAULT "",
+        mora TEXT NOT NULL DEFAULT "No"
     )');
     $db->exec('CREATE INDEX IF NOT EXISTS idx_fecha ON transactions(fecha)');
     $db->exec('CREATE INDEX IF NOT EXISTS idx_asesor ON transactions(asesor)');
     $db->exec('CREATE INDEX IF NOT EXISTS idx_tipo ON transactions(tipo_concepto)');
     $db->exec('CREATE INDEX IF NOT EXISTS idx_medio ON transactions(medio_pago)');
     $db->exec('CREATE INDEX IF NOT EXISTS idx_reporte ON transactions(reporte)');
+    $db->exec('CREATE INDEX IF NOT EXISTS idx_mora ON transactions(mora)');
 }
 
 function importRows($db, $rows, $reporte = '') {
     $stmt = $db->prepare('INSERT INTO transactions 
-        (asesor, fecha, concepto, tipo_concepto, cliente, valor, utilidad, comision_prestamo, comision_cobro, total_cc, medio_pago, reporte)
-        VALUES (:asesor, :fecha, :concepto, :tipo, :cliente, :valor, :utilidad, :com_prest, :com_cobro, :total_cc, :medio, :reporte)');
+        (asesor, fecha, concepto, tipo_concepto, cliente, valor, utilidad, comision_prestamo, comision_cobro, total_cc, medio_pago, reporte, mora)
+        VALUES (:asesor, :fecha, :concepto, :tipo, :cliente, :valor, :utilidad, :com_prest, :com_cobro, :total_cc, :medio, :reporte, :mora)');
     
     $db->exec('BEGIN');
     foreach ($rows as $row) {
@@ -53,6 +61,7 @@ function importRows($db, $rows, $reporte = '') {
         $stmt->bindValue(':total_cc', $row['total_cc'] ?? 0, SQLITE3_FLOAT);
         $stmt->bindValue(':medio', $row['medio_pago'] ?? '', SQLITE3_TEXT);
         $stmt->bindValue(':reporte', $reporte, SQLITE3_TEXT);
+        $stmt->bindValue(':mora', $row['mora'] ?? 'No', SQLITE3_TEXT);
         $stmt->execute();
         $stmt->reset();
     }
@@ -121,6 +130,16 @@ function buildWhereClause($params) {
             $bindings[$key] = trim($m);
         }
         $conditions[] = 'medio_pago IN (' . implode(',', $placeholders) . ')';
+    }
+    if (!empty($params['mora'])) {
+        $moras = explode(',', $params['mora']);
+        $placeholders = [];
+        foreach ($moras as $i => $mo) {
+            $key = ':mora_' . $i;
+            $placeholders[] = $key;
+            $bindings[$key] = trim($mo);
+        }
+        $conditions[] = 'mora IN (' . implode(',', $placeholders) . ')';
     }
     
     return [$conditions, $bindings];
@@ -293,6 +312,10 @@ switch ($action) {
         $r = $db->query("SELECT DISTINCT medio_pago FROM transactions WHERE medio_pago != '' ORDER BY medio_pago");
         while ($row = $r->fetchArray(SQLITE3_ASSOC)) $medios[] = $row['medio_pago'];
         
+        $moras = [];
+        $r = $db->query("SELECT DISTINCT mora FROM transactions ORDER BY mora");
+        while ($row = $r->fetchArray(SQLITE3_ASSOC)) $moras[] = $row['mora'];
+        
         $fechas = $db->querySingle("SELECT MIN(fecha) as min_fecha FROM transactions", true);
         $fechaMax = $db->querySingle("SELECT MAX(fecha) as max_fecha FROM transactions", true);
         
@@ -300,6 +323,7 @@ switch ($action) {
             'asesores' => $asesores,
             'tipos' => $tipos,
             'medios' => $medios,
+            'moras' => $moras,
             'fecha_min' => $fechas['min_fecha'],
             'fecha_max' => $fechaMax['max_fecha']
         ]);

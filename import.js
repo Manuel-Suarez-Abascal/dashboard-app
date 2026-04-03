@@ -41,7 +41,18 @@ function extractConceptType(concepto) {
 
 const transactions = [];
 
+// Find where the MORA section starts
+let moraStartIndex = -1;
 for (let i = 0; i < data.length; i++) {
+  if ((data[i].Asesor || "").toString().trim() === "MORA") {
+    moraStartIndex = i;
+    break;
+  }
+}
+
+// Parse main transactions (before MORA section)
+const mainEnd = moraStartIndex >= 0 ? moraStartIndex : data.length;
+for (let i = 0; i < mainEnd; i++) {
   const row = data[i];
   // Skip totals row (last row) and empty rows
   if (typeof row.Valor === "string" || (!row.Concepto && !row.Asesor)) continue;
@@ -70,7 +81,47 @@ for (let i = 0; i < data.length; i++) {
       typeof row["Comision cobro"] === "number" ? row["Comision cobro"] : 0,
     total_cc: typeof row["Total CC"] === "number" ? row["Total CC"] : 0,
     medio_pago: (row["Medio pago"] || "").trim(),
+    mora: "No",
   });
+}
+
+// Parse MORA section (after MORA header row)
+if (moraStartIndex >= 0) {
+  // The row after MORA header contains column names: Ruta, Fecha_pago, etc.
+  // The actual data starts 2 rows after MORA
+  for (let i = moraStartIndex + 2; i < data.length; i++) {
+    const row = data[i];
+    // Skip totals/empty rows
+    if (!row.Asesor && !row.Concepto) continue;
+    // If Fecha is a string (totals row), skip
+    if (typeof row.Fecha === "string") continue;
+
+    const fecha = excelToDate(row.Fecha);
+    if (!fecha) continue;
+
+    const cliente = (row.Concepto || "").toString().trim();
+    if (!cliente) continue;
+
+    var asesorMora = (row.Asesor || "").trim();
+
+    transactions.push({
+      asesor: asesorMora,
+      fecha: fecha,
+      concepto: "Mora " + cliente,
+      tipo_concepto: "Mora",
+      cliente: cliente,
+      valor: typeof row.Valor === "number" ? row.Valor : 0,
+      utilidad: typeof row.Utilidad === "number" ? row.Utilidad : 0,
+      comision_prestamo:
+        typeof row["Comision prestamo"] === "number"
+          ? row["Comision prestamo"]
+          : 0,
+      comision_cobro: 0,
+      total_cc: 0,
+      medio_pago: "",
+      mora: "Sí",
+    });
+  }
 }
 
 const outDir = path.join(__dirname, "data");
